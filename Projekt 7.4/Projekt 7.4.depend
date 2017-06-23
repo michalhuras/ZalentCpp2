@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457191552 source:c:\users\u¿ytkownik\desktop\micha³ dokumenty\kursy\c++\projekt 7.4\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
