@@ -16,7 +16,7 @@ int main()
     cout << "Podaj nr telefonu: ";  cin>>nr_tel;
 
     fstream plik; //zmienna plikowa
-    plik.open("wizytowka.txt",ios::out | ios::app);
+    plik.open("wizytowka.txt",ios::out | ios::app);//ios::app-dopisywanie do pliku
     //ios::app-nadpisywanie tekstu
 
 

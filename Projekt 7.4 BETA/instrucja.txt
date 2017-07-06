@@ -1,0 +1,8 @@
+QUIZ
+Jest to program obs³uguj¹cy quiz z wybran¹ liczb¹ pytañ. Pytania musz¹ byæ jednokrotnego wyboru
+Aby uruchomiæ program nale¿y stworzyæ dokument pod tytu³em quiz z rozszerzeniem txt
+Dokument musi mieæ postaæ z rozszerzeniem txt 
+Linia pierwsza iloœæ odpowiedzi
+linia druga temat quizu
+linia trzecia autor quizu
+kolejne linie po kolei pytanie, odpowiedzi w oddzielnych liniach poprawna odpowiedz w postaci malej literki

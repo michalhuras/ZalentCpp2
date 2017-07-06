@@ -23,7 +23,7 @@ int main()
         //eof- end of file- zwraca prawde jak dojedziemmy do konca pliku tekstowego
     {
         getline(plik, linia);
-        liczby[licznik]=atof(linia.c_str()); //atof-f->float =>zamienia nam na liczbê zmiennoprzecinkow¹
+        liczby[licznik]=atof(linia.c_str()); //atof-f->float =>zamienia nam na liczbe zmiennoprzecinkowa
         licznik++;
     }
 

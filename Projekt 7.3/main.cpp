@@ -25,7 +25,7 @@ int main()
         }
 
 
-    while (getline(plik, linia))//petla dzia³a dopoki w nawiasach jest prawdziwe
+    while (getline(plik, linia))//petla dziala dopoki w nawiasach jest prawdziwe
     //getline pobiera liniê, a je¿eli nie ma ju¿ lini zmienia siê w false
     {
         switch (nr_linii)

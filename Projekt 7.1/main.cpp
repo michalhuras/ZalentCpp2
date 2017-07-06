@@ -1,5 +1,5 @@
 #include <iostream>
-#include <fstream> //biblioteka odpowiedzialna za pracê z plikami
+#include <fstream> //biblioteka odpowiedzialna za prace z plikami
 
 using namespace std;
 

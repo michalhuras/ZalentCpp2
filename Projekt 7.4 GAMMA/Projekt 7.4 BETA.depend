@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1498667514 source:c:\users\u¿ytkownik\desktop\kursy\c++\miros³aw zalent kurs\projekt 7.4 beta\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<algorithm>
+	<conio.h>
+	<cstdio>
+
+1498671294 source:c:\users\u¿ytkownik\desktop\kursy\c++\zalentcpp2\projekt 7.4 gamma\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<algorithm>
+	<conio.h>
+

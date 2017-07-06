@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498394264 source:c:\users\u¿ytkownik\desktop\kursy\c++\zalentcpp2\projekt 7.3\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
